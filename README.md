@@ -6,6 +6,8 @@ This repository contains the code for lane detection with its main practical use
 
 - numpy==1.16.5 
 
+- matplotlib==3.1.1
+
 ## Concepts
 
 ### Image Used
