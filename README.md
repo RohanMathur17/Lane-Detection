@@ -2,12 +2,12 @@
 This repository contains the code for lane detection with its main practical use in autonomous vehicles.
 
 ## Requirements
-- opencv-python==4.2.0.32 or above
-
-- numpy==1.16.5 
-
-- matplotlib==3.1.1
-
+```
+opencv-python==4.2.0.44 or above
+numpy==1.19.2 or above
+matplotlib==3.1.1
+Pillow==7.2.0
+```
 ## Concepts
 
 ### Image Used
@@ -50,6 +50,12 @@ A good reference to understand Hough Line Transforms -> https://www.youtube.com/
 
 ![alt text](https://github.com/RohanMathur17/Lane-Detection/blob/master/Images/FinalProcessedImage.jpeg)
 
+
+## Deployed Screenshots
+
+![alt text](https://github.com/RohanMathur17/Lane-Detection/blob/master/Images/SelectImage.jpeg)
+
+![alt text](https://github.com/RohanMathur17/Lane-Detection/blob/master/Images/SelectOption.jpeg)
 
 **Done By -**
 
